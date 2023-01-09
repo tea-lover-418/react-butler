@@ -1,0 +1,25 @@
+{
+  "name": "react-butler",
+  "version": "0.0.0",
+  "description": "A data fetching libary, making typing and mocking easy!",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tea-lover-418/react-butler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tea-lover-418/react-butler/issues"
+  },
+  "homepage": "https://github.com/tea-lover-418/react-butler#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "@types/qs": "^6.9.7",
+    "qs": "^6.11.0",
+    "typescript": "^4.9.4"
+  }
+}
